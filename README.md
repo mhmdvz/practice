@@ -1,2 +1,2 @@
 # practice
-https://mhmdvz.github.io/practice/index.html
+https://mhmdvz.github.io/practicee/index.html
